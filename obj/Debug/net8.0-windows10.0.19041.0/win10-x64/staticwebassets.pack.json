@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\QuickPeer.styles.css",
+      "PackagePath": "staticwebassets\\QuickPeer.styles.css"
+    },
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.QuickPeer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.QuickPeer.props",
+      "PackagePath": "build\\QuickPeer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.QuickPeer.props",
+      "PackagePath": "buildMultiTargeting\\QuickPeer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.QuickPeer.props",
+      "PackagePath": "buildTransitive\\QuickPeer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
