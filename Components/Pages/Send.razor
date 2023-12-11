@@ -1,0 +1,35 @@
+﻿@page "/send"
+
+
+<h3>Device IP Address</h3>
+
+<p>Your local IP address is: @localIpAddress</p>
+
+
+
+
+@code {
+    private string localIpAddress = "";
+
+    protected override void OnInitialized()
+    {
+        // Get the local IP address
+        localIpAddress = GetLocalIpAddress();
+    }
+
+    private string GetLocalIpAddress()
+    {
+        var host = System.Net.Dns.GetHostEntry(System.Net.Dns.GetHostName());
+
+        foreach (var ip in host.AddressList)
+        {
+            if (ip.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork)
+            {
+                return ip.ToString();
+            }
+        }
+
+        return "IP address not found";
+    }
+
+}

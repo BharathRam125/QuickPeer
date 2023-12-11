@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
+
 namespace QuickPeer
 {
     public static class MauiProgram

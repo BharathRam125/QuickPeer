@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css",
       "PackagePath": "staticwebassets\\QuickPeer.styles.css"
     },
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\app.css",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\favicon.png",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Workspace\\QuickPeer_\\wwwroot\\index.html",
+      "Id": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

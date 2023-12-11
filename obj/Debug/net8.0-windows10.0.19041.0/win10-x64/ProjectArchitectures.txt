@@ -1,1 +1,1 @@
-C:\Workspace\QuickPeer_\QuickPeer.csproj;x64
+C:\Workspace\maui\QuickPeer\QuickPeer.csproj;x64

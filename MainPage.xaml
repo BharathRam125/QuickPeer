@@ -1,14 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:QuickPeer"
              x:Class="QuickPeer.MainPage"
-             BackgroundColor="{DynamicResource PageBackgroundColor}">
+             xmlns:pages="clr-namespace:QuickPeer.Components.Pages" 
+       
+       Shell.TabBarBackgroundColor="Black"
+       Shell.TabBarForegroundColor="White"
+      >
 
-    <BlazorWebView x:Name="blazorWebView" HostPage="wwwroot/index.html">
-        <BlazorWebView.RootComponents>
-            <RootComponent Selector="#app" ComponentType="{x:Type local:Routes}" />
-        </BlazorWebView.RootComponents>
-    </BlazorWebView>
+    <TabBar>
+        <Tab Title="Send" Icon="paper_plane_solid.svg">
+            <ShellContent >
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <ContentPage>
+                            <BlazorWebView HostPage="wwwroot/index.html">
+                                <BlazorWebView.RootComponents>
+                                    <RootComponent Selector="#app" ComponentType="{x:Type pages:Send}" />
+                                </BlazorWebView.RootComponents>
+                            </BlazorWebView>
+                        </ContentPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+        </Tab>
+        
+        <Tab Title="Receive" Icon="download_solid.svg">
+            <ShellContent>
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <ContentPage>
+                            <BlazorWebView HostPage="wwwroot/index.html">
+                                <BlazorWebView.RootComponents>
+                                    <RootComponent Selector="#app" ComponentType="{x:Type pages:Receive}" />
+                                </BlazorWebView.RootComponents>
+                            </BlazorWebView>
+                        </ContentPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+        </Tab>
 
-</ContentPage>
+
+        <Tab Title="Settings" Icon="gear_solid.svg">
+            <ShellContent>
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <ContentPage>
+                            <BlazorWebView HostPage="wwwroot/index.html">
+                                <BlazorWebView.RootComponents>
+                                    <RootComponent Selector="#app" ComponentType="{x:Type pages:Settings}" />
+                                </BlazorWebView.RootComponents>
+                            </BlazorWebView>
+                        </ContentPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+        </Tab>
+    </TabBar>
+
+</Shell>

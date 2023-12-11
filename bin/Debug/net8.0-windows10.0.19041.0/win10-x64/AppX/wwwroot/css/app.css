@@ -1,5 +1,8 @@
 ﻿html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: Calibri;
+    background-color:black;
+    color: white;
+    text-align:center; 
 }
 
 a, .btn-link {

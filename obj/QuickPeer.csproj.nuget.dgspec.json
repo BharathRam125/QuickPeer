@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\QuickPeer_\\QuickPeer.csproj": {}
+    "C:\\Workspace\\maui\\QuickPeer\\QuickPeer.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\QuickPeer_\\QuickPeer.csproj": {
+    "C:\\Workspace\\maui\\QuickPeer\\QuickPeer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\QuickPeer_\\QuickPeer.csproj",
+        "projectUniqueName": "C:\\Workspace\\maui\\QuickPeer\\QuickPeer.csproj",
         "projectName": "QuickPeer",
-        "projectPath": "C:\\Workspace\\QuickPeer_\\QuickPeer.csproj",
+        "projectPath": "C:\\Workspace\\maui\\QuickPeer\\QuickPeer.csproj",
         "packagesPath": "C:\\Users\\bhara\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\QuickPeer_\\obj\\",
+        "outputPath": "C:\\Workspace\\maui\\QuickPeer\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -61,9 +61,17 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -74,6 +82,10 @@
               "version": "[8.0.3, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -108,9 +120,17 @@
         "net8.0-ios17.0": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -121,6 +141,10 @@
               "version": "[8.0.3, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -155,9 +179,17 @@
         "net8.0-maccatalyst17.0": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -168,6 +200,10 @@
               "version": "[8.0.3, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -203,9 +239,17 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -216,6 +260,10 @@
               "version": "[8.0.3, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[8.0.3, )"
             }

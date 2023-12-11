@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mD2I/i1ynO45WdZe3JLmoJ8GesV1ru3sVARTVSlUscA=",
+  "Hash": "frNRn/9HNtWL+ihPhszQRptwiC3YOPTrpQGYe4jJI6c=",
   "Source": "QuickPeer",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "QuickPeer\\wwwroot",
       "Source": "QuickPeer",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css",
       "SourceId": "QuickPeer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "QuickPeer.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css"
+      "OriginalItemSpec": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\QuickPeer.styles.css"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\QuickPeer.bundle.scp.css",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\QuickPeer.bundle.scp.css",
       "SourceId": "QuickPeer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "QuickPeer.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Workspace\\QuickPeer_\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\QuickPeer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Workspace\\maui\\QuickPeer\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\QuickPeer.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\app.css",
       "SourceId": "QuickPeer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "QuickPeer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "QuickPeer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\wwwroot\\favicon.png",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\favicon.png",
       "SourceId": "QuickPeer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Workspace\\QuickPeer_\\wwwroot\\index.html",
+      "Identity": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\index.html",
       "SourceId": "QuickPeer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Workspace\\QuickPeer_\\wwwroot\\",
+      "ContentRoot": "C:\\Workspace\\maui\\QuickPeer\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",
