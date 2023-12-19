@@ -6,7 +6,8 @@
              xmlns:pages="clr-namespace:QuickPeer.Components.Pages" 
        
        Shell.TabBarBackgroundColor="Black"
-       Shell.TabBarForegroundColor="White"
+       Shell.TabBarForegroundColor="#1dd3b0"
+       Shell.TabBarUnselectedColor="White"
       >
 
     <TabBar>
@@ -25,7 +26,7 @@
                 </ShellContent.ContentTemplate>
             </ShellContent>
         </Tab>
-        
+
         <Tab Title="Receive" Icon="download_solid.svg">
             <ShellContent>
                 <ShellContent.ContentTemplate>

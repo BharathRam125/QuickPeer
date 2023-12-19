@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-11T13:56:55.382</Modified>
+      <Modified>2023-12-19T09:20:21.638</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-11T13:55:04.751</Modified>
+      <Modified>2023-12-13T16:40:12.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.runtimeconfig.json">
       <PackagePath>QuickPeer.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.dll">
       <PackagePath>QuickPeer.dll</PackagePath>
-      <Modified>2023-12-11T13:56:54.465</Modified>
+      <Modified>2023-12-19T09:20:18.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>QuickPeer.exe</PackagePath>
-      <Modified>2023-12-11T13:56:54.536</Modified>
+      <Modified>2023-12-19T09:20:18.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,7 +55,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
-      <Modified>2023-12-11T11:19:14.519</Modified>
+      <Modified>2023-12-13T16:40:47.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
@@ -367,7 +367,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.deps.json">
       <PackagePath>QuickPeer.deps.json</PackagePath>
-      <Modified>2023-12-11T13:55:03.758</Modified>
+      <Modified>2023-12-12T05:42:07.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bhara\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
