@@ -349,4 +349,16 @@ C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-ios\iossimulator-x64\XamlC.stamp
 C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-ios\iossimulator-x64\QuickPeer.csproj.CopyComplete
 C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-ios\iossimulator-x64\QuickPeer.genruntimeconfig.cache
 C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-ios\iossimulator-x64\ref\QuickPeer.dll
-C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Hosting.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-ios\iossimulator-x64\System.Diagnostics.EventLog.dll
