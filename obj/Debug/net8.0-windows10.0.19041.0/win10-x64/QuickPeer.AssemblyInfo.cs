@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickPeer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b8fbe6976d93845b85ff50e669826dbee51fdbc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6496636fdccd0c1b660b124fa6bc9ea6fc54a843")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickPeer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickPeer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

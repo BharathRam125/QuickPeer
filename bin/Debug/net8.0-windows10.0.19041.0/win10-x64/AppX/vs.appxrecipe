@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-23T18:10:24.570</Modified>
+      <Modified>2023-12-24T02:33:49.013</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.dll">
       <PackagePath>QuickPeer.dll</PackagePath>
-      <Modified>2023-12-23T18:07:20.340</Modified>
+      <Modified>2023-12-24T02:33:48.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>QuickPeer.exe</PackagePath>
-      <Modified>2023-12-23T18:07:20.346</Modified>
+      <Modified>2023-12-24T02:33:48.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -787,11 +787,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\QuickPeer.styles.css">
       <PackagePath>wwwroot\QuickPeer.styles.css</PackagePath>
-      <Modified>2023-12-23T18:10:24.296</Modified>
+      <Modified>2023-12-24T02:31:06.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\QuickPeer.bundle.scp.css">
       <PackagePath>wwwroot\QuickPeer.bundle.scp.css</PackagePath>
-      <Modified>2023-12-23T18:10:24.297</Modified>
+      <Modified>2023-12-24T02:31:06.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
@@ -799,7 +799,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
-      <Modified>2023-12-23T18:10:23.603</Modified>
+      <Modified>2023-12-24T02:31:03.880</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
