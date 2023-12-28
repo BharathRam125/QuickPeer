@@ -31,7 +31,7 @@ To build and run the QuickPeer app, make sure you have the following prerequisit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/QuickPeer.git
+https://github.com/BharathRam125/QuickPeer.git
 ```
 ### 2. Open the solution in Visual Studio.
 
