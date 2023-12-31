@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-28T04:47:40.783</Modified>
+      <Modified>2023-12-31T17:36:26.064</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-24T03:21:47.928</Modified>
+      <Modified>2023-12-31T17:36:25.917</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.runtimeconfig.json">
       <PackagePath>QuickPeer.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-28T04:47:40.401</Modified>
+      <Modified>2023-12-28T07:51:21.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.dll">
       <PackagePath>QuickPeer.dll</PackagePath>
-      <Modified>2023-12-28T04:47:39.503</Modified>
+      <Modified>2023-12-31T17:36:25.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>QuickPeer.exe</PackagePath>
-      <Modified>2023-12-28T04:47:39.563</Modified>
+      <Modified>2023-12-31T17:36:25.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -367,7 +367,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuickPeer.deps.json">
       <PackagePath>QuickPeer.deps.json</PackagePath>
-      <Modified>2023-12-28T04:47:40.286</Modified>
+      <Modified>2023-12-29T11:33:32.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bhara\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -787,11 +787,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\QuickPeer.styles.css">
       <PackagePath>wwwroot\QuickPeer.styles.css</PackagePath>
-      <Modified>2023-12-26T11:32:30.618</Modified>
+      <Modified>2023-12-28T05:24:25.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\QuickPeer.bundle.scp.css">
       <PackagePath>wwwroot\QuickPeer.bundle.scp.css</PackagePath>
-      <Modified>2023-12-26T11:32:30.618</Modified>
+      <Modified>2023-12-28T05:24:25.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
@@ -799,7 +799,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\maui\QuickPeer\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
-      <Modified>2023-12-26T11:32:29.700</Modified>
+      <Modified>2023-12-28T05:31:11.466</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

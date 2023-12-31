@@ -1,21 +1,44 @@
 ﻿@page "/"
-
-<h1>Send</h1>
-
-<h3>Device IP Address</h3>
+@using QuickPeer.Network;
 
 <p>Your local IP address is: @localIpAddress</p>
+<div class="select-file">
+    <button class="btn btn-primary" >Broadcast Text</button>
 
+</div>
+
+<h3>Nearby devices:</h3>
+<div class="nearby-devices">
+    @foreach (var device in nearbyDevices)
+    {
+        <div class="device">          
+            <button class="btn btn-primary">@device</button>
+        </div>
+    }
+ </div>
 
 
 
 @code {
+
     private string localIpAddress = "";
+
+    private List<string> nearbyDevices = new List<string>();
+
 
     protected override void OnInitialized()
     {
         // Get the local IP address
+
         localIpAddress = GetLocalIpAddress();
+        
+        nearbyDevices = MulticastDiscovery.NearbyDevices();
+
+    }
+
+    private void ShowPopup()
+    {
+        
     }
 
     private string GetLocalIpAddress()
